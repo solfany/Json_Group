@@ -1,26 +1,20 @@
 [
-  {
-    "id": "A",
-    "name": "A",
-    "symbol": "A",
-    "rank": 1,
-  },
-  {
-    "id": "B",
-    "name": "B",
-    "symbol": "B",
-    "rank": 2,
-  },
-  {
-    "id": "C",
-    "name": "C",
-    "symbol": "C",
-    "rank": 3,
-  },
-  {
-    "id": "D",
-    "name": "D",
-    "symbol": "D",
-    "rank": 4,
-  },
+    {
+        "date": "2023-04-26 01:56:00",
+        "name": "JPYKRW=X",
+        "rate": 10.02554889026677,
+        "timestamp": "1682441760"
+    },
+    {
+        "date": "2023-04-26 01:00:09",
+        "name": "USDKRW=X",
+        "rate": 1342.03,
+        "timestamp": "1682438409"
+    },
+    {
+        "date": "2023-04-26 01:56:00",
+        "name": "KRW=X",
+        "rate": 1,
+        "timestamp": "1682441760"
+    }
 ]
