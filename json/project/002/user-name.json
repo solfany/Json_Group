@@ -1,0 +1,58 @@
+{
+  "user": [
+    {
+      "id": 12345,
+      "name": "김솔비",
+      "email": "solfany@gmail.com",
+      "yymmdd": "1980-01-02",
+      "phone": "010-9999-1212",
+      "home": "11동 1호",
+      "rank": "1"
+    },
+    {
+      "id": 12345,
+      "name": "김솔비",
+      "email": "solfany@gmail.com",
+      "yymmdd": "1980-01-02",
+      "phone": "010-2222-1212",
+      "home": "금11동 1호",
+      "rank": "2"
+    },
+    {
+      "id": 12345,
+      "name": "김솔비",
+      "email": "solfany@gmail.com",
+      "yymmdd": "1980-01-02",
+      "phone": "010-3333-1212",
+      "home": "금학383",
+      "rank": "3"
+    },
+    {
+      "id": 12345,
+      "name": "김솔비",
+      "email": "solfany@gmail.com",
+      "yymmdd": "1980-01-02",
+      "phone": "010-4444-1212",
+      "home": "금호",
+      "rank": "4"
+    },
+    {
+      "id": 12345,
+      "name": "김솔비",
+      "email": "solfany@gmail.com",
+      "yymmdd": "1980-01-02",
+      "phone": "010-5555-1212",
+      "home": "383번길호",
+      "rank": "5"
+    },
+    {
+      "id": 12345,
+      "name": "김솔비",
+      "email": "solfany@gmail.com",
+      "yymmdd": "1980-01-02",
+      "phone": "010-6666-1212",
+      "home": "금213번호",
+      "rank": "6"
+    }
+  ]
+}
