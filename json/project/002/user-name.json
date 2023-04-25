@@ -1,32 +1,26 @@
-{
-  "product": "Live JSON generator",
-  "version": 3.1,
-  "releaseDate": "2014-06-25T00:00:00.000Z",
-  "demo": true,
-  "person": {
-    "id": 12345,
-    "name": "solfany",
-    "phones": {
-      "home": "800-123-4567",
-      "mobile": "877-123-1234"
-    },
-    "email": [
-      "jd@example.com",
-      "jd@example.org"
-    ],
-    "dateOfBirth": "1980-01-02T00:00:00.000Z",
-    "registered": true,
-    "emergencyContacts": [
-      {
-        "name": "Jane Doe",
-        "phone": "888-555-1212",
-        "relationship": "spouse"
-      },
-      {
-        "name": "Justin Doe",
-        "phone": "877-123-1212",
-        "relationship": "parent"
-      }
-    ]
-  }
-}
+[
+  {
+    "id": "A",
+    "name": "A",
+    "symbol": "A",
+    "rank": 1,
+  },
+  {
+    "id": "B",
+    "name": "B",
+    "symbol": "B",
+    "rank": 2,
+  },
+  {
+    "id": "C",
+    "name": "C",
+    "symbol": "C",
+    "rank": 3,
+  },
+  {
+    "id": "D",
+    "name": "D",
+    "symbol": "D",
+    "rank": 4,
+  },
+]
