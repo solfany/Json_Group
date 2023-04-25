@@ -1,54 +1,32 @@
-    {
-      "id": 12345,
-      "name": "김솔비",
-      "email": "solfany@gmail.com",
-      "yymmdd": "1980-01-02",
-      "phone": "010-9999-1212",
-      "home": "11동 1호",
-      "rank": "1"
+{
+  "product": "Live JSON generator",
+  "version": 3.1,
+  "releaseDate": "2014-06-25T00:00:00.000Z",
+  "demo": true,
+  "person": {
+    "id": 12345,
+    "name": "solfany",
+    "phones": {
+      "home": "800-123-4567",
+      "mobile": "877-123-1234"
     },
-    {
-      "id": 12345,
-      "name": "김솔비",
-      "email": "solfany@gmail.com",
-      "yymmdd": "1980-01-02",
-      "phone": "010-2222-1212",
-      "home": "금11동 1호",
-      "rank": "2"
-    },
-    {
-      "id": 12345,
-      "name": "김솔비",
-      "email": "solfany@gmail.com",
-      "yymmdd": "1980-01-02",
-      "phone": "010-3333-1212",
-      "home": "금학383",
-      "rank": "3"
-    },
-    {
-      "id": 12345,
-      "name": "김솔비",
-      "email": "solfany@gmail.com",
-      "yymmdd": "1980-01-02",
-      "phone": "010-4444-1212",
-      "home": "금호",
-      "rank": "4"
-    },
-    {
-      "id": 12345,
-      "name": "김솔비",
-      "email": "solfany@gmail.com",
-      "yymmdd": "1980-01-02",
-      "phone": "010-5555-1212",
-      "home": "383번길호",
-      "rank": "5"
-    },
-    {
-      "id": 12345,
-      "name": "김솔비",
-      "email": "solfany@gmail.com",
-      "yymmdd": "1980-01-02",
-      "phone": "010-6666-1212",
-      "home": "금213번호",
-      "rank": "6"
-    }
+    "email": [
+      "jd@example.com",
+      "jd@example.org"
+    ],
+    "dateOfBirth": "1980-01-02T00:00:00.000Z",
+    "registered": true,
+    "emergencyContacts": [
+      {
+        "name": "Jane Doe",
+        "phone": "888-555-1212",
+        "relationship": "spouse"
+      },
+      {
+        "name": "Justin Doe",
+        "phone": "877-123-1212",
+        "relationship": "parent"
+      }
+    ]
+  }
+}
